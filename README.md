@@ -45,7 +45,7 @@ Details can be found in `notebooks/Wildflower_Recognizer_data_prep.ipynb`
 # Model Deployment
 
 I deployed the model to HuggingFace Spaces Gradio App. The implementation can be found in `app` folder or [here](https://huggingface.co/spaces/minhaj-ripon/Wildflower-recognizer). <br/>
-<img src = "app/Gradio_App.jpg", width ="600", height="300">
+<img src = "app/Gradio_App.jpg" width="700" height="350">
 
 # API integration with GitHub Pages
 
