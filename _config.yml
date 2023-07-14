@@ -1,0 +1,9 @@
+remote_theme: so-simple-theme@master
+plugins:
+- jekyll-remote-theme
+
+title: Wildflower Recognizer
+description: An image classification API that classifies 25 different types of Wildflowers commonly / rarely found around the world
+
+author:
+  name: Md. Minhaj Uddin
